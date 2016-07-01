@@ -1,0 +1,3 @@
+[submodule "PyTeaser"]
+	path = PyTeaser
+	url = https://github.com/petre2dor/PyTeaser
